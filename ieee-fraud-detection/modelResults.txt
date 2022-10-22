@@ -1,0 +1,13 @@
+The reults of testData:
+
+logistic regression:0.925926
+logistic regression+cross-validation:0.9444
+
+decision tree: 0.9444
+random forest: 0.9444
+
+nn(MLP):0.9444
+
+linear svm:0.9444
+
+naive bayes: 0.9444
