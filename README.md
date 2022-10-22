@@ -5,4 +5,4 @@ Credit fraud detection grows rapidly with the development of electronic payment.
 ### Model Results
 | Model Name      | SVM     | MLP     | Logistic Regression     | Random Forest     |
 | ---------- | :-----------:  | :-----------: |:-----------:  | :-----------: |
-| Precision     | **0.9646**     | 0.9698     | 0.9641     |0.9688     |
+| Precision     | 0.9646     | ***0.9698***     | 0.9641     |0.9688     |
